@@ -14,6 +14,6 @@
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "redis": "^4.7.0",
-    "user-agents": "^1.1.311"
+    "user-agents": "^1.1.345"
   }
 }
